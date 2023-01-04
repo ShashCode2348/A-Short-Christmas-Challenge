@@ -3,4 +3,4 @@ As a short and fun festive challenge for all of you to do, I have attached a son
 
 Good luck, have fun, and enjoy!
 
-![View Counter](https://view-counter.tobyhagan.com/?user=ShashCode2348/A-Short-Christmas-Challenge)
+![](https://view-counter.tobyhagan.com/?user=ShashCode2348/A-Short-Christmas-Challenge)
