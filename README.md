@@ -5,4 +5,4 @@ As a short festive challenge for all of you to do, I have attached a song, but i
 ## Note
 Due to an update of Message Encoder, A Short Christmas Challenge will no longer work. Thank you to all who tried the challenge!
 
-![](https://view-counter.tobyhagan.com/?user=ShashCode2348/A-Short-Christmas-Challenge)
+![View Counter](https://view-counter.tobyhagan.com/?user=ShashCode2348/A-Short-Christmas-Challenge)
